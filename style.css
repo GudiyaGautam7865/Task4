@@ -1,0 +1,89 @@
+.box{
+   
+    width: 90%;
+    background-color: rgb(159, 125, 173);
+    height: 60vh;
+    margin-top: 10%;
+    margin-right: 50px;
+    border-radius: 10px;
+    color: white;
+    font-size: x-large;
+
+}
+.navbar{
+    background-color: rgb(110, 110, 217);
+    width: 100%;
+}
+.box1{
+ 
+ height: 20vh;
+ width: 19%;
+box-shadow:gray;
+ margin-left: 5%;
+ border-radius: 10%;
+
+}
+p{
+font-size: xx-large;
+text-align: center;
+}
+.container{
+   border-radius: 10px;
+    margin-top: 10%;
+    height: 90vh;
+    background-color: rgb(65, 65, 210);
+    margin-right: 20%;
+}
+
+.box2{
+   
+    height: 60vh;
+    margin-top: 7%;
+    width: 30%;
+}
+.bos{
+    border-radius: 5%;
+    margin-left: 10%;
+     margin-top: 5%;
+     width: 60%;
+     height: 76vh;
+     background-color: rgb(252, 251, 253);
+}
+.box4{
+   
+    margin-top: 5%;
+    height: 15vh;
+}
+.button{
+    width: 100%;
+    border-radius: 10%;
+    border-color: white;
+    margin-top: 10%;
+    margin-left: 10%;
+    color: white;
+    background-color: rgb(65, 65, 210);
+}
+.button:hover{
+    background-color: rgb(126, 205, 226);
+}
+h2{
+    margin-left: 20px;
+    margin-top: 6px;
+   
+}
+form{
+    width: 50%;
+    margin-left: 8%;
+}
+.b{
+    width: 40%;
+    margin-top: 20%;
+    height: 10vh;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 50%;
+    background-color: rgb(8, 8, 8);
+}
+.b:hover{
+    background-color: green;
+}
